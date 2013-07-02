@@ -16,4 +16,4 @@ Mounting, writing, unmounting, and plugging the SD card into the Pi repeatedly c
 
 ### Misc.
 
-Thanks for checking out SkidOS! If you have any questions, feel free to hit me up at @SirSkidmore on either [Twitter](https://twitter.com/SirSkidmore) or App.net (https://alpha.app.net/sirskidmore) or checkout my [website](http://skidmo.re).
+Thanks for checking out SkidOS! If you have any questions, feel free to hit me up at @SirSkidmore on either [Twitter](https://twitter.com/SirSkidmore) or App.net(https://alpha.app.net/sirskidmore) or checkout my [website](http://skidmo.re).
