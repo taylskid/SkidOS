@@ -1,2 +1,4 @@
 build/*.elf
 build/*.o
+boot/kernel.img
+kernel.list
